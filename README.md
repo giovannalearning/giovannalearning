@@ -1,3 +1,6 @@
+<img align="left" alt="Coding" width="auto" src="https://github.com/giovannalearning/giovannalearning/blob/main/header.png">&nbsp;
+
+
 - 👋 Hi, I’m @giovannalearning
 - 👀 I’m interested in programming languages, cybersecurity, robotics, computer networks, business intelligence (BI), data analysis, cloud computing, and everything related to the technological world
 - 🌱 I’m currently learning MySQL, C, C++, JAVA, KOTLIN, PHP, PYTHON, RUBY, LINUX...
